@@ -1937,6 +1937,7 @@ blockquote {
   }
 }
 @media only screen and (max-width: 1024px) {
+  
   .txt{
     padding: 0px;
   }
@@ -1947,7 +1948,7 @@ blockquote {
     top: 0;
     right: 0;
     bottom: 0;
-    background-color: #444;
+    background-color: rgb(105, 65, 72);
     z-index: 99;
     padding: 30px 30px 10px;
     text-align: center;
@@ -2122,6 +2123,9 @@ blockquote {
     position: relative;
     margin-left: 20px;
     margin-right: 20px;
+  }
+  .header-photo img{
+    margin-left: 33.5px;
   }
 }
 @media only screen and (max-width: 768px) {
@@ -2869,6 +2873,7 @@ button:hover{
 @media (width:1024px) {
   #site_header{
     margin-top: 0px;
+    background-color: #694148;
   }
   .animated-sections.pro{
     position: relative;
