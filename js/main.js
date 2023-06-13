@@ -155,7 +155,7 @@
           '<div class="mfp-title mfp-bottom-iframe-title"></div>' +
           "</div>",
         patterns: {
-          // youtube: { index: "youtube.com/", id: null, src: "%id%?autoplay=1" },
+          youtube: { index: "youtube.com/", id: null, src: "%id%?autoplay=1" },
           vimeo: {
             index: "vimeo.com/",
             id: "/",

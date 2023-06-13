@@ -2909,6 +2909,12 @@ button:hover{
 }
 
 @media (max-width:500px) {
+  .ajax-page-title {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-align: left;
+    margin-right: 30px;
+  }
   .txt{
     padding: 0px;
   }
