@@ -2452,7 +2452,7 @@ blockquote {
 .title-block {
   position: relative;
   text-align: center;
-  bottom: 106px;
+  bottom: 173px;
 }
 .title-block h2 {
   color: #f5f5f5;
@@ -2922,7 +2922,7 @@ button:hover{
 .p123{
   width: 10%;
 }
-@media (min-width:1600px){
+@media (min-width:1920px){
   .title-block{
     bottom: 100px;
   }
