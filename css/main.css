@@ -2875,7 +2875,7 @@ button:hover{
 }
 @media (min-width:320px) {
   .animated-sections.pro .title-block h2{
-    right: 49px;
+    right: 1px;
     top: 79px;
   }
   .page-title h2 {
