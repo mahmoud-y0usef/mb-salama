@@ -2922,14 +2922,3 @@ button:hover{
 .p123{
   width: 10%;
 }
-@media (min-width:1920px){
-  .title-block{
-    bottom: 173px;
-  }
-  .animated-sections.pro .title-block h2{
-    font-size: 20px;
-    position: absolute;
-    top: 50px;
-    right: 120px;
-  }
-}
