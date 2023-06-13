@@ -2587,6 +2587,7 @@ blockquote {
   #site_header {
     margin-top: 0px;
   }
+
   .header-photo img {
     background-color: #fff;
     margin-top: 16px;
@@ -2596,6 +2597,9 @@ blockquote {
     transform: scale(1.5);
     width: 91px;
     margin-left: 29.5px;
+  }
+  .header-photo{
+    top: 20px;
   }
 }
 .ul.main-menu {
@@ -2779,6 +2783,13 @@ button:hover{
     top: 3px;
     right: 0px;
   }
+  .header-photo{
+    top: 20px;
+  }
+  .header-titles{
+    padding-top: 43px;
+  }
+  
 }
 @media (width:320px) {
   #site_header{
@@ -2799,6 +2810,7 @@ button:hover{
     position: absolute;
     top: 36px;
   }
+  
 }
 @media (max-width:712px) {
 
@@ -2863,7 +2875,7 @@ button:hover{
 }
 @media (min-width:320px) {
   .animated-sections.pro .title-block h2{
-    right: 0px;
+    right: 49px;
     top: 79px;
   }
   .page-title h2 {
@@ -2909,4 +2921,9 @@ button:hover{
 }
 .p123{
   width: 10%;
+}
+@media (min-width:1800px){
+  .title-block{
+    bottom: 100px;
+  }
 }
