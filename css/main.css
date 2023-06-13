@@ -2924,6 +2924,10 @@ button:hover{
   .ajax-page-title h1{
     font-size: 18px;
   }
+  .portfolio-block {
+    padding-top: 30px;
+    margin-left: 4%;
+}
 }
 .p123{
   width: 10%;
